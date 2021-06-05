@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+## Hello GitHub Fans 👋.
+#### My name is **Aaron Joel**, I'm 20 years old and I'm a student of **Computer Science** at Major University of San Andres (**UMSA**).
+#### I am completely passionate about frontend development, and also very interested in data analysis. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 
 <!--
 **DevDuxAaron/DevDuxAaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
