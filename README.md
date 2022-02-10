@@ -1,8 +1,9 @@
 # Hello there 👋
-#### My name is **Aaron Joel**, I'm 20 years old and I'm a student of **Computer Science** at Major University of San Andres (**UMSA**).
+#### My name is **Aaron Joel**, I'm 20 years old and I'm a student of **Computer Science** 
+
 #### I am completely passionate about frontend development, and also very interested in data analysis. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends. Star wars fan.
 #### May the force be with you
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 
 <!--
